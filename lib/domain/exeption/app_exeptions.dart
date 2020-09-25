@@ -1,0 +1,1 @@
+class GetUserException implements Exception {}
